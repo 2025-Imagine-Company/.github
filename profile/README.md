@@ -75,53 +75,67 @@ Blockchain (Solidity) ← NFT Minting
   <tr>
     <td align="center" width="200px">
       <a href="https://github.com/MinSang22Kim">
-        <img src="https://github.com/MinSang22Kim.png" width="100px;" alt=""/><br />
-        <sub><b>김민</b></sub>
+        <img src="https://github.com/MinSang22Kim.png" width="100px;" alt=""/>
       </a>
-      <br />
-      <sub>⚡ Solution Architect </sub>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/yoonbell">
-        <img src="https://github.com/yoonbell.png" width="100px;" alt=""/><br />
-        <sub><b>이윤종</b></sub>
+        <img src="https://github.com/yoonbell.png" width="100px;" alt=""/>
       </a>
-      <br />
-      <sub>📱 Frontend</sub>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/chaery0ung">
-        <img src="https://github.com/chaery0ung.png" width="100px;" alt=""/><br />
-        <sub><b>홍채령</b></sub>
+        <img src="https://github.com/chaery0ung.png" width="100px;" alt=""/>
       </a>
-      <br />   
-      <sub>📱 Frontend</sub>
     </td>
     <td align="center" width="200px">
       <a href="https://github.com/v2n03">
-        <img src="https://github.com/v2n03.png" width="100px;" alt=""/><br />
-        <sub><b>노형준</b></sub>
+        <img src="https://github.com/v2n03.png" width="100px;" alt=""/>
       </a>
-      <br />
-      <sub>⚙️ Backend & AI</sub>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/znan">
-        <img src="https://github.com/znan2.png" width="100px;" alt=""/><br />
-        <sub><b>박진환</b></sub>
+      <a href="https://github.com/znan2">
+        <img src="https://github.com/znan2.png" width="100px;" alt=""/>
       </a>
-      <br />
-      <sub>⛓️ Blockchain</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>김민상</b>
+    </td>
+    <td align="center">
+      <b>이윤종</b>
+    </td>
+    <td align="center">
+      <b>홍채령</b>
+    </td>
+    <td align="center">
+      <b>노형준</b>
+    </td>
+    <td align="center">
+      <b>박진환</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      ⚡ Solution Architect
+    </td>
+    <td align="center">
+      📱 Frontend
+    </td>
+    <td align="center">
+      📱 Frontend
+    </td>
+    <td align="center">
+      ⚙️ Backend & AI
+    </td>
+    <td align="center">
+      ⛓️ Blockchain
     </td>
   </tr>
 </table>
 
-## 🔒 Security
 
-- Presigned URL을 통한 안전한 S3 파일 업로드
-- 클라이언트의 직접 S3 접근 차단
-- 지갑 서명 기반 인증
-- NFT 소유권 검증 기반 API 접근 제어
 <div align="center">
-  <sub>Built with ❤️ by Voice NFT Team</sub>
+  <sub>Built with ❤️ by SOUND A.I.</sub>
 </div>
