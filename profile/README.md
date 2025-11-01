@@ -84,35 +84,49 @@ Blockchain (Solidity) ← NFT Minting
 - API 사용량 기반 $AUDI 토큰 보상
 - 월별 사용 통계 및 보상 내역 제공
 
-## 📅 Development Timeline
-
-### Phase 1: MVP 개발 (2024.08)
-- [x] 시스템 아키텍처 설계
-- [x] DB 스키마 설계
-- [x] API 엔드포인트 정의
-- [x] 기술 스택 확정
-- [ ] 개발 환경 구축
-
-### Phase 2: 핵심 기능 구현 (2024.09-10)
-- [ ] 음성 업로드 및 S3 연동
-- [ ] AI 음성 학습 파이프라인
-- [ ] 스마트 컨트랙트 개발
-- [ ] NFT 민팅 기능
-
-### Phase 3: 통합 및 테스트 (2024.11)
-- [ ] 프론트엔드-백엔드 연동
-- [ ] TTS API 구현 및 테스트
-- [ ] 보상 시스템 구현
-- [ ] 통합 테스트
-
 ## 👥 Team
-
-| Role | Responsibilities |
-|------|-----------------|
-| 📱 Frontend | Flutter 기반 크로스플랫폼 앱 개발 |
-| ⚙️ Backend | Spring Boot API 서버 개발 |
-| 🤖 AI | Flask 기반 음성 학습 모델 |
-| ⛓️ Blockchain | Solidity 스마트 컨트랙트 |
+<table>
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://github.com/MinSang22Kim">
+        <img src="https://github.com/MinSang22Kim.png" width="100px;" alt=""/><br />
+        <sub><b>김민</b></sub>
+      </a>
+      <br />
+      <sub>⚡ Solution Architect </sub>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/yoonbell">
+        <img src="https://github.com/yoonbell.png" width="100px;" alt=""/><br />
+        <sub><b>이윤종</b></sub>
+      </a>
+      <br />
+      <sub>📱 Frontend</sub>
+      <a href="https://github.com/chaery0ung">
+        <img src="https://github.com/chaery0ung.png" width="100px;" alt=""/><br />
+        <sub><b>홍채령</b></sub>
+      </a>
+      <br />   
+      <sub>📱 Frontend</sub>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/v2n03">
+        <img src="https://github.com/v2n03.png" width="100px;" alt=""/><br />
+        <sub><b>노형준</b></sub>
+      </a>
+      <br />
+      <sub>⚙️ Backend & AI</sub>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/znan">
+        <img src="https://github.com/znan2.png" width="100px;" alt=""/><br />
+        <sub><b>박진환</b></sub>
+      </a>
+      <br />
+      <sub>⛓️ Blockchain</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🔒 Security
 
