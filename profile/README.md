@@ -37,8 +37,8 @@ Blockchain (Solidity) ← NFT Minting
 ## 🛠️ Tech Stack
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -46,12 +46,12 @@ Blockchain (Solidity) ← NFT Minting
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 ### AI
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 📊 Database Schema
 
@@ -84,29 +84,6 @@ Blockchain (Solidity) ← NFT Minting
 - API 사용량 기반 $AUDI 토큰 보상
 - 월별 사용 통계 및 보상 내역 제공
 
-## 📋 API Endpoints
-
-### Authentication
-- `POST /auth/login` - 지갑 서명 기반 로그인
-- `GET /auth/me` - 사용자 정보 조회
-
-### Voice Management
-- `POST /voice/upload` - 음성 파일 업로드
-- `GET /voice/status/{model_id}` - 학습 상태 조회
-- `GET /voice/result/{model_id}` - 학습 결과 및 미리듣기
-
-### NFT Operations
-- `POST /nft/mint` - NFT 발행
-- `GET /nft/list/{wallet}` - 보유 NFT 목록
-- `GET /nft/{token_id}/metadata` - NFT 메타데이터
-
-### TTS API
-- `POST /api/tts` - TTS 변환 요청
-- `GET /api/usage/{wallet}` - 사용 기록 조회
-
-### Rewards
-- `GET /reward/{wallet}` - 보상 내역 조회
-
 ## 📅 Development Timeline
 
 ### Phase 1: MVP 개발 (2024.08)
@@ -132,7 +109,7 @@ Blockchain (Solidity) ← NFT Minting
 
 | Role | Responsibilities |
 |------|-----------------|
-| 🎨 Frontend | Vue.js 기반 UI/UX 구현 |
+| 📱 Frontend | Flutter 기반 크로스플랫폼 앱 개발 |
 | ⚙️ Backend | Spring Boot API 서버 개발 |
 | 🤖 AI | Flask 기반 음성 학습 모델 |
 | ⛓️ Blockchain | Solidity 스마트 컨트랙트 |
@@ -143,27 +120,6 @@ Blockchain (Solidity) ← NFT Minting
 - 클라이언트의 직접 S3 접근 차단
 - 지갑 서명 기반 인증
 - NFT 소유권 검증 기반 API 접근 제어
-
-## 📈 Development Progress
-
-**정기 미팅**
-- 월 1회 대면 회의
-- 필요시 온라인 즉석 회의
-
-**프로젝트 예산**
-- 인당 10만원 개인 분배
-- 개발 운영비 별도 집행
-
-## 🤝 Contributer
-<th></th>
-<td></td>
-
-## 📞 Contact
-
-프로젝트에 대한 문의사항이 있으시면 이슈를 등록해주세요.
-
----
-
 <div align="center">
   <sub>Built with ❤️ by Voice NFT Team</sub>
 </div>
