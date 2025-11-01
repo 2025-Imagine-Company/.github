@@ -40,28 +40,14 @@ Blockchain (Solidity) ← NFT Minting
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Backend
+### Backend & AI
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
-### AI
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-## 📊 Database Schema
-
-### Core Tables
-- **users**: 지갑 기반 사용자 정보
-- **voice_files**: 업로드된 음성 파일 관리
-- **voice_models**: AI 학습 모델 및 상태 관리
-- **nfts**: 발행된 NFT 정보 및 소유권
-- **tts_requests**: API 사용 기록
-- **rewards**: 사용량 기반 보상 내역
 
 ## 🚀 Key Features
 
