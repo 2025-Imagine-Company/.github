@@ -88,6 +88,8 @@ Blockchain (Solidity) ← NFT Minting
       </a>
       <br />
       <sub>📱 Frontend</sub>
+    </td>
+    <td align="center" width="200px">
       <a href="https://github.com/chaery0ung">
         <img src="https://github.com/chaery0ung.png" width="100px;" alt=""/><br />
         <sub><b>홍채령</b></sub>
