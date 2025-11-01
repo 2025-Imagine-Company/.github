@@ -1,4 +1,4 @@
-# 🎙️ SOUND A.I
+# 🎙️ AudiOn
 
 > AI 음성 모델을 NFT로 발행하고, API로 활용할 수 있는 Web3 플랫폼
 
