@@ -81,7 +81,7 @@ Blockchain (Solidity) ← NFT Minting
       <sub>음성 녹음 시작</sub>
     </td>
     <td align="center" width="200px">
-      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/login_walletselect.png.png?raw=true" width="180px" alt="홈 화면"/>
+      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/login_walletselect.png?raw=true" width="180px" alt="홈 화면"/>
       <br />
       <sub><b>지갑 연결</b></sub>
       <br />
