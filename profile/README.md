@@ -73,35 +73,35 @@ Blockchain (Solidity) ← NFT Minting
 📱 Application Screenshots
 <table>
   <tr>
-    <td align="center" width="200px">
+    <td align="center" width="200px" height="420px">
       <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/home(updated).png?raw=true" width="180px" height="400px" alt="홈 화면"/>
       <br />
       <sub><b>홈 화면</b></sub>
       <br />
       <sub>음성 녹음 시작</sub>
     </td>
-    <td align="center" width="200px">
+    <td align="center" width="200px" height="420px">
       <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/login_walletselect.png?raw=true" width="180px" height="400px" alt="홈 화면"/>
       <br />
       <sub><b>지갑 연결</b></sub>
       <br />
       <sub>MetaMask 로그인</sub>
     </td>
-    <td align="center" width="200px">
+    <td align="center" width="200px" height="420px">
       <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/mypage(updated).png?raw=true" width="180px" height="400px" alt="홈 화면"/>
       <br />
       <sub><b>마이페이지</b></sub>
       <br />
       <sub>음성 모델 관리</sub>
     </td>
-    <td align="center" width="200px">
+    <td align="center" width="200px" height="420px">
       <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/record_upload(updated).png?raw=true" width="180px" height="400px" alt="홈 화면"/>
       <br />
       <sub><b>녹음 페이지</b></sub>
       <br />
       <sub>음성 학습 진행</sub>
     </td>
-    <td align="center" width="200px">
+    <td align="center" width="200px" height="420px">
       <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/minting_transaction.png?raw=true" width="180px" height="400px" alt="홈 화면"/>
       <br />
       <sub><b>NFT 민팅</b></sub>
