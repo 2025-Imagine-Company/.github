@@ -74,7 +74,7 @@ Blockchain (Solidity) ← NFT Minting
 <table>
   <tr>
     <td align="center" width="200px">
-      <img src="<img width="567" alt="image" src="https://github.com/user-attachments/assets/f63d1b00-783e-4473-b941-0a5655fdd270" />
+      <img src="<img width="567" alt="image" src="https://github.com/user-attachments/assets//f63d1b00-783e-4473-b941-0a5655fdd270](https://github.com/2025-Imagine-Company/APP/tree/develop/assets/screens/home(updated).png" />
 " width="180px;" alt="홈 화면"/>
       <br />
       <sub><b>홈 화면</b></sub>
