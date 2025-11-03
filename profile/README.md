@@ -65,10 +65,6 @@ Blockchain (Solidity) ← NFT Minting
 - RESTful API 제공
 - 사용량 추적 및 보상 연계
 
-### 4. 보상 시스템
-- API 사용량 기반 $AUDI 토큰 보상
-- 월별 사용 통계 및 보상 내역 제공
-
 📱 Application Screenshots
 <table>
   <tr>
