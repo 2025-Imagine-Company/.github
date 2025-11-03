@@ -32,7 +32,6 @@ Blockchain (Solidity) ← NFT Minting
 2. **AI 학습**: S3 음성 파일 → Flask AI 서버 → 학습된 모델
 3. **NFT 발행**: 학습 완료 모델 → 블록체인 민팅 → IPFS 메타데이터
 4. **API 사용**: NFT 소유 확인 → TTS 변환 → 결과 반환
-5. **보상 지급**: 사용량 집계 → $AUDI 토큰 보상
 
 ## 🛠️ Tech Stack
 
