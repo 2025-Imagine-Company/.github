@@ -73,39 +73,34 @@ Blockchain (Solidity) ← NFT Minting
 📱 Application Screenshots
 <table>
   <tr>
-    <td align="center" width="200px" height="420px">
-      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/home(updated).png?raw=true" width="180px" height="400px" alt="홈 화면"/>
-      <br />
-      <sub><b>홈 화면</b></sub>
-      <br />
+    <td align="center" width="200px" style="padding: 10px; vertical-align: top;">
+      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/home(updated).png?raw=true" style="width:180px; height:380px; object-fit: contain; border-radius:10px;" alt="홈 화면"/>
+      <br /><br />
+      <b>홈 화면</b><br />
       <sub>음성 녹음 시작</sub>
     </td>
-    <td align="center" width="200px" height="420px">
-      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/login_walletselect.png?raw=true" width="180px" height="400px" alt="홈 화면"/>
-      <br />
-      <sub><b>지갑 연결</b></sub>
-      <br />
+    <td align="center" width="200px" style="padding: 10px; vertical-align: top;">
+      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/login_walletselect.png?raw=true" style="width:180px; height:380px; object-fit: contain; border-radius:10px;" alt="지갑 연결"/>
+      <br /><br />
+      <b>지갑 연결</b><br />
       <sub>MetaMask 로그인</sub>
     </td>
-    <td align="center" width="200px" height="420px">
-      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/mypage(updated).png?raw=true" width="180px" height="400px" alt="홈 화면"/>
-      <br />
-      <sub><b>마이페이지</b></sub>
-      <br />
+    <td align="center" width="200px" style="padding: 10px; vertical-align: top;">
+      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/mypage(updated).png?raw=true" style="width:180px; height:380px; object-fit: contain; border-radius:10px;" alt="마이페이지"/>
+      <br /><br />
+      <b>마이페이지</b><br />
       <sub>음성 모델 관리</sub>
     </td>
-    <td align="center" width="200px" height="420px">
-      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/record_upload(updated).png?raw=true" width="180px" height="400px" alt="홈 화면"/>
-      <br />
-      <sub><b>녹음 페이지</b></sub>
-      <br />
+    <td align="center" width="200px" style="padding: 10px; vertical-align: top;">
+      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/record_upload(updated).png?raw=true" style="width:180px; height:380px; object-fit: contain; border-radius:10px;" alt="녹음 페이지"/>
+      <br /><br />
+      <b>녹음 페이지</b><br />
       <sub>음성 학습 진행</sub>
     </td>
-    <td align="center" width="200px" height="420px">
-      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/minting_transaction.png?raw=true" width="180px" height="400px" alt="홈 화면"/>
-      <br />
-      <sub><b>NFT 민팅</b></sub>
-      <br />
+    <td align="center" width="200px" style="padding: 10px; vertical-align: top;">
+      <img src="https://github.com/2025-Imagine-Company/APP/blob/develop/assets/screens/minting_transaction.png?raw=true" style="width:180px; height:380px; object-fit: contain; border-radius:10px;" alt="NFT 민팅"/>
+      <br /><br />
+      <b>NFT 민팅</b><br />
       <sub>블록체인 발행</sub>
     </td>
   </tr>
